@@ -1,10 +1,9 @@
 # Better-DOMJs Docs
-This rebuilds the docment.createElement('button') &amp; more to $.makeObject('button') and it auto appends to document.body by default
 
-# In Index.js
+## In Index.js
 `import { $ } from "https://raw.githubusercontent.com/Zombiefiedgamingyt/Better-DOMJs/main/BetterDOM.js"`
 
-# In Index.html
+## In Index.html
 `<script type="module" src="https://raw.githubusercontent.com/Zombiefiedgamingyt/Better-DOMJs/main/BetterDOM.js"></script>`
 
 
