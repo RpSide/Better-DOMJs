@@ -1,4 +1,4 @@
-# Better-DOMJs
+# Better-DOMJs Docs
 This rebuilds the docment.createElement('button') &amp; more to $.makeObject('button') and it auto appends to document.body by default
 
 # In Index.js
